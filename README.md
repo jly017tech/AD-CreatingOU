@@ -12,3 +12,5 @@
 <p>
   In the Active Directory: Computers and Users, I create few OUs folders for my IT homelab
 </p>
+
+<img width="1438" height="680" alt="image" src="https://github.com/user-attachments/assets/666cb78d-b1c5-4a77-8677-adbfefa44535" />
